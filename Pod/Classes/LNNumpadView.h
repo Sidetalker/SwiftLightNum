@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface LNNumpadView : UIViewController
+@interface LNNumpadView : UIView
 
 @end

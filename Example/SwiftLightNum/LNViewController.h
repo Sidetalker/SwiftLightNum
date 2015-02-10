@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <SwiftLightNum/LNNumpadView.h>
 
 @interface LNViewController : UIViewController
 
