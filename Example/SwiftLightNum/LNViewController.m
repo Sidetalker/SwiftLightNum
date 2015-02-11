@@ -21,7 +21,7 @@
     
     LNNumpadView *numpad = [[LNNumpadView alloc] init];
     
-    [numpad.view setFrame:CGRectMake(0, 0, 100, 100)];
+    [numpad setFrame:CGRectMake(0, 0, 100, 100)];
     
     [self.view addSubview:numpad];
 }
