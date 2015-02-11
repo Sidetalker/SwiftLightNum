@@ -7,8 +7,12 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "Enums.h"
+
 @interface LNNumpadView : UIView
 
-
+@property (nonatomic) NSUInteger type;
+@property (nonatomic) NSUInteger colorScheme;
+@property (nonatomic) NSUInteger keySize;
 
 @end

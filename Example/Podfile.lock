@@ -1,5 +1,5 @@
 PODS:
-  - SwiftLightNum (0.1.0)
+  - SwiftLightNum (0.0.1)
 
 DEPENDENCIES:
   - SwiftLightNum (from `../`)
@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  SwiftLightNum: 0925b7c3b46a1422183df25ab100cbe251a60670
+  SwiftLightNum: f563c7fbfe55e87ea550751259ad2fd876857dae
 
 COCOAPODS: 0.35.0

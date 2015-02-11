@@ -9,6 +9,6 @@
 // SwiftLightNum
 #define COCOAPODS_POD_AVAILABLE_SwiftLightNum
 #define COCOAPODS_VERSION_MAJOR_SwiftLightNum 0
-#define COCOAPODS_VERSION_MINOR_SwiftLightNum 1
-#define COCOAPODS_VERSION_PATCH_SwiftLightNum 0
+#define COCOAPODS_VERSION_MINOR_SwiftLightNum 0
+#define COCOAPODS_VERSION_PATCH_SwiftLightNum 1
 
