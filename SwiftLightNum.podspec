@@ -9,14 +9,14 @@
 
 Pod::Spec.new do |s|
   s.name             = "SwiftLightNum"
-  s.version          = "0.1.0"
+  s.version          = "0.0.1"
   s.summary          = "A lightweight, customizable number pad"
   s.description      = "A fully customizable number pad control designed for use in a popover"
   s.homepage         = "https://github.com/Sidetalker/SwiftLightNum"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Kevin Sullivan" => "admin@sideapps.com" }
-  s.source           = { :git => "https://github.com/Sidetalker/SwiftLightNum.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/Sidetalker/SwiftLightNum.git", :tag => "0.0.1" }
   s.social_media_url = 'https://sideapps.com'
 
   s.platform     = :ios, '8.0'
