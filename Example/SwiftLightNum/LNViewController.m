@@ -18,6 +18,12 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    LNNumpadView *numpad = [[LNNumpadView alloc] init];
+    
+    [numpad setFrame:CGRectMake(0, 0, 100, 100)];
+    
+    [self.view addSubview:numpad];
 }
 
 - (void)didReceiveMemoryWarning

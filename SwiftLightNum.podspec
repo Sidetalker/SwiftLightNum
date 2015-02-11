@@ -22,12 +22,12 @@ Pod::Spec.new do |s|
   s.platform     = :ios, '8.0'
   s.requires_arc = true
 
-  s.source_files = 'Pod/Classes/**/*'
+  s.source_files = 'Pod/Classes/*'
   s.resource_bundles = {
-    'SwiftLightNum' => ['Pod/Assets/*.png']
+    'SwiftLightNum' => ['Pod/Assets/*.png', 'Pod/Classes/*.xib']
   }
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
+  s.public_header_files = 'Pod/Classes/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 end

@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  SwiftLightNum: 3a45bda40e996b657a8f08ef44bc1d4c81c21d8e
+  SwiftLightNum: 0925b7c3b46a1422183df25ab100cbe251a60670
 
 COCOAPODS: 0.35.0
