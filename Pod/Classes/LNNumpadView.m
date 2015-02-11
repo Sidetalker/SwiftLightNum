@@ -14,12 +14,16 @@
 
 @implementation LNNumpadView
 
+<<<<<<< Updated upstream
 #pragma mark - Initialization
 
+=======
+>>>>>>> Stashed changes
 - (id)init {
     self = [super init];
     
     if (self) {
+<<<<<<< Updated upstream
         [self configure];
     }
     
@@ -28,6 +32,12 @@
 
 - (void)configure {
     [self setBackgroundColor:[UIColor redColor]];
+=======
+        [self setBackgroundColor:[UIColor redColor]];
+    }
+    
+    return self;
+>>>>>>> Stashed changes
 }
 
 @end

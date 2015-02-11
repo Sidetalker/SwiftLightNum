@@ -10,20 +10,82 @@
 	<string>46</string>
 	<key>objects</key>
 	<dict>
+<<<<<<< Updated upstream
 		<key>0119718AD3960C708D345E85</key>
+=======
+		<key>07589A8621154635636CBA3A</key>
+>>>>>>> Stashed changes
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>containerPortal</key>
+			<string>222CF672C8DEA02DBFC7F113</string>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-SwiftLightNum.debug.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXContainerItemProxy</string>
+			<key>proxyType</key>
+			<string>1</string>
+			<key>remoteGlobalIDString</key>
+			<string>A159B9DE0304E2C3B1C5EBDB</string>
+			<key>remoteInfo</key>
+			<string>Pods-Tests-SwiftLightNum</string>
 		</dict>
+		<key>095BB2F77240BC6FA3F98C47</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>20D7920C849FC228761F6998</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>ALWAYS_SEARCH_USER_PATHS</key>
+				<string>NO</string>
+				<key>COPY_PHASE_STRIP</key>
+				<string>NO</string>
+				<key>DSTROOT</key>
+				<string>/tmp/xcodeproj.dst</string>
+				<key>GCC_DYNAMIC_NO_PIC</key>
+				<string>NO</string>
+				<key>GCC_OPTIMIZATION_LEVEL</key>
+				<string>0</string>
+				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
+				<string>YES</string>
+				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
+				<array>
+					<string>DEBUG=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
+				<string>NO</string>
+				<key>INSTALL_PATH</key>
+				<string>$(BUILT_PRODUCTS_DIR)</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>8.0</string>
+				<key>OTHER_LDFLAGS</key>
+				<string></string>
+				<key>OTHER_LIBTOOLFLAGS</key>
+				<string></string>
+				<key>PRODUCT_NAME</key>
+				<string>$(TARGET_NAME)</string>
+				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
+				<string>$(TARGET_NAME)</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Debug</string>
+		</dict>
+		<key>0A55D2924A2825E834A98475</key>
+		<dict>
+			<key>fileRef</key>
+			<string>846965BD5A89DFC541EA2664</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+<<<<<<< Updated upstream
 		<key>0214C215E7E86A8A172D3DD5</key>
+=======
+		<key>0D772B18336B2766FE948DC7</key>
+>>>>>>> Stashed changes
 		<dict>
 			<key>buildSettings</key>
 			<dict>
@@ -47,15 +109,37 @@
 			<string>2147483647</string>
 			<key>files</key>
 			<array>
+<<<<<<< Updated upstream
 				<string>CD7B4ECE44A5346AE9AACC53</string>
 				<string>AE13875F2A49A69BFEA741BD</string>
+=======
+				<string>C24FE400A976C7CEE2B074CA</string>
+				<string>307D1A5B6BE6A0B7B86EFD50</string>
+>>>>>>> Stashed changes
 			</array>
 			<key>isa</key>
 			<string>PBXSourcesBuildPhase</string>
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
+<<<<<<< Updated upstream
 		<key>04F2FDDFA4ECD22EF0A3F357</key>
+=======
+		<key>0DE68AD99720493084214B1D</key>
+		<dict>
+			<key>explicitFileType</key>
+			<string>archive.ar</string>
+			<key>includeInIndex</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>libPods-SwiftLightNum-SwiftLightNum.a</string>
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
+		</dict>
+		<key>0F1CBC5324336104FA8FF5B9</key>
+>>>>>>> Stashed changes
 		<dict>
 			<key>buildConfigurationList</key>
 			<string>2F1B037CCE81FF6A8BDEE404</string>
@@ -70,6 +154,7 @@
 			<key>dependencies</key>
 			<array/>
 			<key>isa</key>
+<<<<<<< Updated upstream
 			<string>PBXNativeTarget</string>
 			<key>name</key>
 			<string>SwiftLightNum</string>
@@ -81,11 +166,23 @@
 			<string>com.apple.product-type.bundle</string>
 		</dict>
 		<key>095FB8C9FF37F9E565F9A78B</key>
+=======
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>Pods-SwiftLightNum-SwiftLightNum-dummy.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>155C62FE47F3734992DC5D3E</key>
+>>>>>>> Stashed changes
 		<dict>
 			<key>buildActionMask</key>
 			<string>2147483647</string>
 			<key>files</key>
 			<array>
+<<<<<<< Updated upstream
 				<string>5D8991B201652D6FC582145B</string>
 			</array>
 			<key>isa</key>
@@ -94,6 +191,161 @@
 			<string>0</string>
 		</dict>
 		<key>0AA4F641191FA7FB512D200E</key>
+=======
+				<string>A5EAB94A4F4E7DEC33D2673D</string>
+			</array>
+			<key>isa</key>
+			<string>PBXHeadersBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>18F3BC0770FC35B8B703CD25</key>
+		<dict>
+			<key>buildSettings</key>
+			<dict>
+				<key>PRODUCT_NAME</key>
+				<string>$(TARGET_NAME)</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+				<key>WRAPPER_EXTENSION</key>
+				<string>bundle</string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Release</string>
+		</dict>
+		<key>1F8FD1AC551F6793E3383B9B</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text</string>
+			<key>name</key>
+			<string>Podfile</string>
+			<key>path</key>
+			<string>../Podfile</string>
+			<key>sourceTree</key>
+			<string>SOURCE_ROOT</string>
+			<key>xcLanguageSpecificationIdentifier</key>
+			<string>xcode.lang.ruby</string>
+		</dict>
+		<key>20D7920C849FC228761F6998</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>Pods-SwiftLightNum.debug.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>222CF672C8DEA02DBFC7F113</key>
+		<dict>
+			<key>attributes</key>
+			<dict>
+				<key>LastUpgradeCheck</key>
+				<string>0510</string>
+			</dict>
+			<key>buildConfigurationList</key>
+			<string>0D772B18336B2766FE948DC7</string>
+			<key>compatibilityVersion</key>
+			<string>Xcode 3.2</string>
+			<key>developmentRegion</key>
+			<string>English</string>
+			<key>hasScannedForEncodings</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXProject</string>
+			<key>knownRegions</key>
+			<array>
+				<string>en</string>
+			</array>
+			<key>mainGroup</key>
+			<string>8497860AECE7DD44BB4F9757</string>
+			<key>productRefGroup</key>
+			<string>D49FECD9D3430EFF6A81CAE1</string>
+			<key>projectDirPath</key>
+			<string></string>
+			<key>projectReferences</key>
+			<array/>
+			<key>projectRoot</key>
+			<string></string>
+			<key>targets</key>
+			<array>
+				<string>7A32501FA0B26CCE3D2AE2AF</string>
+				<string>EE3EE529E263B0D4CE4CD493</string>
+				<string>4ED8F5007EE0754271694285</string>
+				<string>A159B9DE0304E2C3B1C5EBDB</string>
+				<string>D92A0DCD6DBD550891CB8EC0</string>
+			</array>
+		</dict>
+		<key>289E9EABA6E1E2AD054A202A</key>
+		<dict>
+			<key>containerPortal</key>
+			<string>222CF672C8DEA02DBFC7F113</string>
+			<key>isa</key>
+			<string>PBXContainerItemProxy</string>
+			<key>proxyType</key>
+			<string>1</string>
+			<key>remoteGlobalIDString</key>
+			<string>D92A0DCD6DBD550891CB8EC0</string>
+			<key>remoteInfo</key>
+			<string>SwiftLightNum</string>
+		</dict>
+		<key>2CA433DF79F1D6DD70583A7E</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>Pods-Tests.debug.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>2ED8A9D16E0F6F4D53551CD2</key>
+		<dict>
+			<key>fileRef</key>
+			<string>846965BD5A89DFC541EA2664</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>2EF3BCF2751A375C222F4BC1</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>EED204CAEBF4C9D9BD991A95</string>
+			</array>
+			<key>isa</key>
+			<string>PBXSourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>2FFFA3E57DB7CCBCBB225CFB</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXTargetDependency</string>
+			<key>name</key>
+			<string>Pods-SwiftLightNum-SwiftLightNum</string>
+			<key>target</key>
+			<string>EE3EE529E263B0D4CE4CD493</string>
+			<key>targetProxy</key>
+			<string>461560C00FF4716CA572B9C0</string>
+		</dict>
+		<key>307D1A5B6BE6A0B7B86EFD50</key>
+>>>>>>> Stashed changes
 		<dict>
 			<key>baseConfigurationReference</key>
 			<string>170EF40390109B1F97C89429</string>
@@ -202,6 +454,7 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
+<<<<<<< Updated upstream
 		<key>15437197BE7DE6CA76791AB4</key>
 		<dict>
 			<key>containerPortal</key>
@@ -216,11 +469,15 @@
 			<string>SwiftLightNum</string>
 		</dict>
 		<key>15BB0F8BB25C51AF73CBC7D0</key>
+=======
+		<key>30C1E3B0FAC6D66439A567B4</key>
+>>>>>>> Stashed changes
 		<dict>
 			<key>buildActionMask</key>
 			<string>2147483647</string>
 			<key>files</key>
 			<array>
+<<<<<<< Updated upstream
 				<string>93E540FB45C98B106DE094DD</string>
 			</array>
 			<key>isa</key>
@@ -263,21 +520,223 @@
 				<string></string>
 				<key>OTHER_LIBTOOLFLAGS</key>
 				<string></string>
+=======
+				<string>BEAF107F049D8833BA4F2D80</string>
+			</array>
+			<key>isa</key>
+			<string>PBXSourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>34D37B7EF8AB3E829D8EE963</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text</string>
+			<key>path</key>
+			<string>Pods-Tests-acknowledgements.markdown</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>377BB8E5D9366AED0BFF2540</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>4C5CCC87E2D8B382F4563379</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Development Pods</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>38BB881E7CE1C44C9E544CE7</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>8DCEB07FAABD42B335592184</string>
+				<string>90CAA1613224CFEFCB23808F</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Targets Support Files</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>3D632575FD3C5F5608888042</key>
+		<dict>
+			<key>buildSettings</key>
+			<dict>
+>>>>>>> Stashed changes
 				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
 				<string>$(TARGET_NAME)</string>
 				<key>SDKROOT</key>
 				<string>iphoneos</string>
 				<key>SKIP_INSTALL</key>
 				<string>YES</string>
+				<key>WRAPPER_EXTENSION</key>
+				<string>bundle</string>
 			</dict>
 			<key>isa</key>
 			<string>XCBuildConfiguration</string>
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
+<<<<<<< Updated upstream
 		<key>170EF40390109B1F97C89429</key>
+=======
+		<key>45E46A8CB08B302A4D901707</key>
+>>>>>>> Stashed changes
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array/>
+			<key>isa</key>
+<<<<<<< Updated upstream
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>Pods-Tests.release.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>17A9EF5DDA20265CA4131D34</key>
+=======
+			<string>PBXFrameworksBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>461560C00FF4716CA572B9C0</key>
+		<dict>
+			<key>containerPortal</key>
+			<string>222CF672C8DEA02DBFC7F113</string>
+			<key>isa</key>
+			<string>PBXContainerItemProxy</string>
+			<key>proxyType</key>
+			<string>1</string>
+			<key>remoteGlobalIDString</key>
+			<string>EE3EE529E263B0D4CE4CD493</string>
+			<key>remoteInfo</key>
+			<string>Pods-SwiftLightNum-SwiftLightNum</string>
+		</dict>
+		<key>4B256409A5FAA544AF672263</key>
+		<dict>
+			<key>explicitFileType</key>
+			<string>wrapper.cfbundle</string>
+			<key>includeInIndex</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>SwiftLightNum.bundle</string>
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
+		</dict>
+		<key>4C5CCC87E2D8B382F4563379</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>8F9375EE79B88C5E9BB37921</string>
+				<string>E940FBA2D47260D8D63A3364</string>
+				<string>F54F3538A57A477C4BA3D366</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>SwiftLightNum</string>
+			<key>path</key>
+			<string>../..</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>4ED8F5007EE0754271694285</key>
+		<dict>
+			<key>buildConfigurationList</key>
+			<string>723AEEFB5205E695D7BB1B18</string>
+			<key>buildPhases</key>
+			<array>
+				<string>30C1E3B0FAC6D66439A567B4</string>
+				<string>8E053C8E002DCD56743229E3</string>
+			</array>
+			<key>buildRules</key>
+			<array/>
+			<key>dependencies</key>
+			<array>
+				<string>6C6A6A31DE64D641EBDF74BB</string>
+			</array>
+			<key>isa</key>
+			<string>PBXNativeTarget</string>
+			<key>name</key>
+			<string>Pods-Tests</string>
+			<key>productName</key>
+			<string>Pods-Tests</string>
+			<key>productReference</key>
+			<string>B1122FCD54E1C3E758788419</string>
+			<key>productType</key>
+			<string>com.apple.product-type.library.static</string>
+		</dict>
+		<key>5606294B1D695635C8319282</key>
+		<dict>
+			<key>fileRef</key>
+			<string>846965BD5A89DFC541EA2664</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>58207F0AA493701553A58790</key>
+>>>>>>> Stashed changes
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.plist.xml</string>
+			<key>path</key>
+<<<<<<< Updated upstream
+			<string>Pods-Tests-dummy.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>180DED1F490B28FBC2A2B54B</key>
+=======
+			<string>Pods-SwiftLightNum-acknowledgements.plist</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>5C179A1C241D59E9B6E8027E</key>
+>>>>>>> Stashed changes
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+<<<<<<< Updated upstream
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>Pods-SwiftLightNum-SwiftLightNum-Private.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>1B9BD9DD4F06E4E2CABFA57D</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>0119718AD3960C708D345E85</string>
+=======
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>Pods-SwiftLightNum-dummy.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>5CA49724D8A1DE2CBE2BEE12</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -290,36 +749,24 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>17A9EF5DDA20265CA4131D34</key>
+		<key>5D91F766A2EB44464C4D0851</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>children</key>
+			<array>
+				<string>846965BD5A89DFC541EA2664</string>
+			</array>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>Pods-Tests-dummy.m</string>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>iOS</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>180DED1F490B28FBC2A2B54B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-SwiftLightNum-SwiftLightNum-Private.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1B9BD9DD4F06E4E2CABFA57D</key>
+		<key>60ED0F5321C923CBAE012DBF</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>0119718AD3960C708D345E85</string>
+			<string>E7D8F748B9F1C7A777B0F5AA</string>
+>>>>>>> Stashed changes
 			<key>buildSettings</key>
 			<dict>
 				<key>ALWAYS_SEARCH_USER_PATHS</key>
@@ -334,6 +781,11 @@
 				<string>0</string>
 				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
 				<string>YES</string>
+<<<<<<< Updated upstream
+=======
+				<key>GCC_PREFIX_HEADER</key>
+				<string>Target Support Files/Pods-SwiftLightNum-SwiftLightNum/Pods-SwiftLightNum-SwiftLightNum-prefix.pch</string>
+>>>>>>> Stashed changes
 				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
 				<array>
 					<string>DEBUG=1</string>
@@ -363,13 +815,18 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
+<<<<<<< Updated upstream
 		<key>1F534EC26DCE1AC47CCC87C8</key>
+=======
+		<key>614245AFEB9CDE69B9F2639B</key>
+>>>>>>> Stashed changes
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
+<<<<<<< Updated upstream
 			<string>text</string>
 			<key>name</key>
 			<string>Podfile</string>
@@ -386,6 +843,44 @@
 			<array>
 				<string>15EB0C78E8F95F7F095DD6E6</string>
 				<string>241B96996ABD72D97E5BB562</string>
+=======
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>Pods-SwiftLightNum-SwiftLightNum-prefix.pch</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>6C6A6A31DE64D641EBDF74BB</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXTargetDependency</string>
+			<key>name</key>
+			<string>Pods-Tests-SwiftLightNum</string>
+			<key>target</key>
+			<string>A159B9DE0304E2C3B1C5EBDB</string>
+			<key>targetProxy</key>
+			<string>07589A8621154635636CBA3A</string>
+		</dict>
+		<key>6CE3F27A003FEEDE5EC9F585</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>7F71C135921A5FC655F2EB23</string>
+			</array>
+			<key>isa</key>
+			<string>PBXHeadersBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>723AEEFB5205E695D7BB1B18</key>
+		<dict>
+			<key>buildConfigurations</key>
+			<array>
+				<string>781F646D0923A047E624962E</string>
+				<string>D67D2CCC1692710C3DE93607</string>
+>>>>>>> Stashed changes
 			</array>
 			<key>defaultConfigurationIsVisible</key>
 			<string>0</string>
@@ -394,6 +889,7 @@
 			<key>isa</key>
 			<string>XCConfigurationList</string>
 		</dict>
+<<<<<<< Updated upstream
 		<key>20C7CCE15D97782E3CF223A7</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -487,6 +983,12 @@
 		<dict>
 			<key>baseConfigurationReference</key>
 			<string>7A6DA80434286639E22D8E38</string>
+=======
+		<key>781F646D0923A047E624962E</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>2CA433DF79F1D6DD70583A7E</string>
+>>>>>>> Stashed changes
 			<key>buildSettings</key>
 			<dict>
 				<key>ALWAYS_SEARCH_USER_PATHS</key>
@@ -530,6 +1032,7 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
+<<<<<<< Updated upstream
 		<key>2AD580B1773D0CF47CCD235D</key>
 		<dict>
 			<key>buildActionMask</key>
@@ -665,6 +1168,49 @@
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
+=======
+		<key>7A32501FA0B26CCE3D2AE2AF</key>
+		<dict>
+			<key>buildConfigurationList</key>
+			<string>D965B3730A71F39123A66E15</string>
+			<key>buildPhases</key>
+			<array>
+				<string>2EF3BCF2751A375C222F4BC1</string>
+				<string>D85D5A86CF8C35B2E88E0B48</string>
+			</array>
+			<key>buildRules</key>
+			<array/>
+			<key>dependencies</key>
+			<array>
+				<string>2FFFA3E57DB7CCBCBB225CFB</string>
+			</array>
+			<key>isa</key>
+			<string>PBXNativeTarget</string>
+			<key>name</key>
+			<string>Pods-SwiftLightNum</string>
+			<key>productName</key>
+			<string>Pods-SwiftLightNum</string>
+			<key>productReference</key>
+			<string>DF93C34E4A500F8A2412F0F8</string>
+			<key>productType</key>
+			<string>com.apple.product-type.library.static</string>
+		</dict>
+		<key>7DC6344DC0471D9DABC67430</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array/>
+			<key>isa</key>
+			<string>PBXResourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>7F71C135921A5FC655F2EB23</key>
+		<dict>
+			<key>fileRef</key>
+			<string>8F9375EE79B88C5E9BB37921</string>
+>>>>>>> Stashed changes
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
@@ -674,6 +1220,7 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+<<<<<<< Updated upstream
 		<key>3676D661F9567D07B2562D41</key>
 		<dict>
 			<key>buildConfigurationList</key>
@@ -702,18 +1249,26 @@
 			<string>com.apple.product-type.library.static</string>
 		</dict>
 		<key>3D0DB321B56E2548E886EB03</key>
+=======
+		<key>812BF330C661AF6B3565B9E9</key>
+>>>>>>> Stashed changes
 		<dict>
 			<key>buildActionMask</key>
 			<string>2147483647</string>
 			<key>files</key>
+<<<<<<< Updated upstream
 			<array>
 				<string>4B74E80C7B2C355449F94243</string>
 			</array>
+=======
+			<array/>
+>>>>>>> Stashed changes
 			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
+			<string>PBXSourcesBuildPhase</string>
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
+<<<<<<< Updated upstream
 		<key>41CDDA3D608C68551F8E43CA</key>
 		<dict>
 			<key>fileRef</key>
@@ -722,46 +1277,71 @@
 			<string>PBXBuildFile</string>
 		</dict>
 		<key>423ED5550666F69D92B7F89E</key>
+=======
+		<key>846965BD5A89DFC541EA2664</key>
+>>>>>>> Stashed changes
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
+			<string>wrapper.framework</string>
 			<key>name</key>
-			<string>Pods-Tests-SwiftLightNum-Private.xcconfig</string>
+			<string>Foundation.framework</string>
 			<key>path</key>
-			<string>../Pods-Tests-SwiftLightNum/Pods-Tests-SwiftLightNum-Private.xcconfig</string>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework</string>
 			<key>sourceTree</key>
+<<<<<<< Updated upstream
 			<string>&lt;group&gt;</string>
 		</dict>
 		<key>43683FBEE473A8B010F6280E</key>
+=======
+			<string>DEVELOPER_DIR</string>
+		</dict>
+		<key>847AE99B5636DF1A995A566F</key>
+>>>>>>> Stashed changes
 		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
+			<key>buildConfigurations</key>
 			<array>
+<<<<<<< Updated upstream
 				<string>CD472F00C9E78EAF497BAF17</string>
+=======
+				<string>9CC85B7D0082678406B0CC8D</string>
+				<string>A3C1B86A66A27C5D53D3B59B</string>
+>>>>>>> Stashed changes
+			</array>
+			<key>defaultConfigurationIsVisible</key>
+			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
+			<key>isa</key>
+			<string>XCConfigurationList</string>
+		</dict>
+<<<<<<< Updated upstream
+		<key>461E02E8D2AF1F9C8B58FC03</key>
+=======
+		<key>8497860AECE7DD44BB4F9757</key>
+>>>>>>> Stashed changes
+		<dict>
+			<key>children</key>
+			<array>
+				<string>1F8FD1AC551F6793E3383B9B</string>
+				<string>377BB8E5D9366AED0BFF2540</string>
+				<string>983351FFE8BD33BCBE1FEF78</string>
+				<string>D49FECD9D3430EFF6A81CAE1</string>
+				<string>38BB881E7CE1C44C9E544CE7</string>
 			</array>
 			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>461E02E8D2AF1F9C8B58FC03</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
+<<<<<<< Updated upstream
 			<string>PBXFileReference</string>
 			<key>path</key>
 			<string>libPods-Tests.a</string>
+=======
+			<string>PBXGroup</string>
+>>>>>>> Stashed changes
 			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
+			<string>&lt;group&gt;</string>
 		</dict>
+<<<<<<< Updated upstream
 		<key>4642CE605228B96CF8DE2536</key>
 		<dict>
 			<key>buildConfigurationList</key>
@@ -777,9 +1357,38 @@
 			<array>
 				<string>A75A5738B845CB9BEC3867D6</string>
 			</array>
+=======
+		<key>8C46D05CBC891774F2FDEB3A</key>
+		<dict>
+			<key>fileRef</key>
+			<string>0F1CBC5324336104FA8FF5B9</string>
 			<key>isa</key>
-			<string>PBXNativeTarget</string>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>8CA7B699920C06B2F7367EF1</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>Pods-SwiftLightNum-SwiftLightNum.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>8CCBFACFD6FB8FBEC7D1DE40</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+>>>>>>> Stashed changes
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
 			<key>name</key>
+<<<<<<< Updated upstream
 			<string>Pods-SwiftLightNum</string>
 			<key>productName</key>
 			<string>Pods-SwiftLightNum</string>
@@ -789,12 +1398,22 @@
 			<string>com.apple.product-type.library.static</string>
 		</dict>
 		<key>46CB9EDE9B7A6BD72690E3AC</key>
+=======
+			<string>Pods-Tests-SwiftLightNum.xcconfig</string>
+			<key>path</key>
+			<string>../Pods-Tests-SwiftLightNum/Pods-Tests-SwiftLightNum.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>8D19A3B7F1F876D232B2F7FD</key>
+>>>>>>> Stashed changes
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
+<<<<<<< Updated upstream
 			<string>sourcecode.c.h</string>
 			<key>name</key>
 			<string>LNNumpadView.h</string>
@@ -928,16 +1547,107 @@
 			<string>PBXFileReference</string>
 			<key>path</key>
 			<string>libPods-SwiftLightNum-SwiftLightNum.a</string>
+=======
+			<string>text.script.sh</string>
+			<key>path</key>
+			<string>Pods-SwiftLightNum-resources.sh</string>
 			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
+			<string>&lt;group&gt;</string>
 		</dict>
-		<key>6CFB06D0BBA2BA39C58B9A07</key>
+		<key>8DCEB07FAABD42B335592184</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>9F9F4A4206414E03A448D8DB</string>
+				<string>58207F0AA493701553A58790</string>
+				<string>5C179A1C241D59E9B6E8027E</string>
+				<string>AACFDC2E912F10C6CD3C3AB2</string>
+				<string>8D19A3B7F1F876D232B2F7FD</string>
+				<string>20D7920C849FC228761F6998</string>
+				<string>F14CF287CA60062BD1951D06</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Pods-SwiftLightNum</string>
+			<key>path</key>
+			<string>Target Support Files/Pods-SwiftLightNum</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>8E053C8E002DCD56743229E3</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>5606294B1D695635C8319282</string>
+			</array>
+			<key>isa</key>
+			<string>PBXFrameworksBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>8E3562180612114A3A1C0A66</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXTargetDependency</string>
+			<key>name</key>
+			<string>SwiftLightNum</string>
+			<key>target</key>
+			<string>D92A0DCD6DBD550891CB8EC0</string>
+			<key>targetProxy</key>
+			<string>9FCA35A724F26C5F8F419980</string>
+		</dict>
+		<key>8F9375EE79B88C5E9BB37921</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>LNNumpadView.h</string>
+			<key>path</key>
+			<string>Pod/Classes/LNNumpadView.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>90CAA1613224CFEFCB23808F</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>34D37B7EF8AB3E829D8EE963</string>
+				<string>95665B38A0550014C75BBCC6</string>
+				<string>C1F14ADC632EF978243EB790</string>
+				<string>BB0575CD4BC64C7156D31B61</string>
+				<string>A01AEF51EC1A46989713138E</string>
+				<string>2CA433DF79F1D6DD70583A7E</string>
+				<string>5CA49724D8A1DE2CBE2BEE12</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Pods-Tests</string>
+			<key>path</key>
+			<string>Target Support Files/Pods-Tests</string>
+>>>>>>> Stashed changes
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
+		</dict>
+<<<<<<< Updated upstream
+		<key>6CFB06D0BBA2BA39C58B9A07</key>
+=======
+		<key>95665B38A0550014C75BBCC6</key>
+>>>>>>> Stashed changes
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+<<<<<<< Updated upstream
 			<string>text</string>
 			<key>path</key>
 			<string>Pods-SwiftLightNum-acknowledgements.markdown</string>
@@ -945,18 +1655,35 @@
 			<string>&lt;group&gt;</string>
 		</dict>
 		<key>6E8C3F464762B45E10560669</key>
+=======
+			<string>text.plist.xml</string>
+			<key>path</key>
+			<string>Pods-Tests-acknowledgements.plist</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>957521CCC64715C8E515F345</key>
+>>>>>>> Stashed changes
 		<dict>
+			<key>explicitFileType</key>
+			<string>archive.ar</string>
 			<key>includeInIndex</key>
-			<string>1</string>
+			<string>0</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
+<<<<<<< Updated upstream
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
 			<key>path</key>
 			<string>Pods-SwiftLightNum-SwiftLightNum-dummy.m</string>
+=======
+			<key>path</key>
+			<string>libPods-Tests-SwiftLightNum.a</string>
+>>>>>>> Stashed changes
 			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>BUILT_PRODUCTS_DIR</string>
 		</dict>
+<<<<<<< Updated upstream
 		<key>6F6123332B26946FD53B3A4B</key>
 		<dict>
 			<key>buildConfigurationList</key>
@@ -972,9 +1699,55 @@
 			<array>
 				<string>84C689A1B2BC6761274B19B2</string>
 			</array>
+=======
+		<key>95F4D61C236B6692BFC57773</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>F14CF287CA60062BD1951D06</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>ALWAYS_SEARCH_USER_PATHS</key>
+				<string>NO</string>
+				<key>COPY_PHASE_STRIP</key>
+				<string>YES</string>
+				<key>DSTROOT</key>
+				<string>/tmp/xcodeproj.dst</string>
+				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
+				<string>YES</string>
+				<key>INSTALL_PATH</key>
+				<string>$(BUILT_PRODUCTS_DIR)</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>8.0</string>
+				<key>OTHER_CFLAGS</key>
+				<array>
+					<string>-DNS_BLOCK_ASSERTIONS=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>OTHER_CPLUSPLUSFLAGS</key>
+				<array>
+					<string>-DNS_BLOCK_ASSERTIONS=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>OTHER_LDFLAGS</key>
+				<string></string>
+				<key>OTHER_LIBTOOLFLAGS</key>
+				<string></string>
+				<key>PRODUCT_NAME</key>
+				<string>$(TARGET_NAME)</string>
+				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
+				<string>$(TARGET_NAME)</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+				<key>VALIDATE_PRODUCT</key>
+				<string>YES</string>
+			</dict>
+>>>>>>> Stashed changes
 			<key>isa</key>
 			<string>PBXNativeTarget</string>
 			<key>name</key>
+<<<<<<< Updated upstream
 			<string>Pods-Tests</string>
 			<key>productName</key>
 			<string>Pods-Tests</string>
@@ -998,6 +1771,58 @@
 		<dict>
 			<key>buildSettings</key>
 			<dict>
+=======
+			<string>Release</string>
+		</dict>
+		<key>983351FFE8BD33BCBE1FEF78</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>5D91F766A2EB44464C4D0851</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Frameworks</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>9CC85B7D0082678406B0CC8D</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>A639A0FBA59F472A39FBB5E1</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>ALWAYS_SEARCH_USER_PATHS</key>
+				<string>NO</string>
+				<key>COPY_PHASE_STRIP</key>
+				<string>NO</string>
+				<key>DSTROOT</key>
+				<string>/tmp/xcodeproj.dst</string>
+				<key>GCC_DYNAMIC_NO_PIC</key>
+				<string>NO</string>
+				<key>GCC_OPTIMIZATION_LEVEL</key>
+				<string>0</string>
+				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
+				<string>YES</string>
+				<key>GCC_PREFIX_HEADER</key>
+				<string>Target Support Files/Pods-Tests-SwiftLightNum/Pods-Tests-SwiftLightNum-prefix.pch</string>
+				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
+				<array>
+					<string>DEBUG=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
+				<string>NO</string>
+				<key>INSTALL_PATH</key>
+				<string>$(BUILT_PRODUCTS_DIR)</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>8.0</string>
+				<key>OTHER_LDFLAGS</key>
+				<string></string>
+				<key>OTHER_LIBTOOLFLAGS</key>
+				<string></string>
+>>>>>>> Stashed changes
 				<key>PRODUCT_NAME</key>
 				<string>$(TARGET_NAME)</string>
 				<key>SDKROOT</key>
@@ -1023,13 +1848,18 @@
 			<key>targetProxy</key>
 			<string>107879644F1D439F62B5E564</string>
 		</dict>
+<<<<<<< Updated upstream
 		<key>7A090D9B86F29DCCC8E48651</key>
+=======
+		<key>9F9F4A4206414E03A448D8DB</key>
+>>>>>>> Stashed changes
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
+<<<<<<< Updated upstream
 			<string>sourcecode.c.h</string>
 			<key>path</key>
 			<string>Pods-SwiftLightNum-environment.h</string>
@@ -1093,6 +1923,133 @@
 			<array>
 				<string>984C7FF0333241615C6CD98C</string>
 			</array>
+=======
+			<string>text</string>
+			<key>path</key>
+			<string>Pods-SwiftLightNum-acknowledgements.markdown</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>9FCA35A724F26C5F8F419980</key>
+		<dict>
+			<key>containerPortal</key>
+			<string>222CF672C8DEA02DBFC7F113</string>
+			<key>isa</key>
+			<string>PBXContainerItemProxy</string>
+			<key>proxyType</key>
+			<string>1</string>
+			<key>remoteGlobalIDString</key>
+			<string>D92A0DCD6DBD550891CB8EC0</string>
+			<key>remoteInfo</key>
+			<string>SwiftLightNum</string>
+		</dict>
+		<key>A01AEF51EC1A46989713138E</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.script.sh</string>
+			<key>path</key>
+			<string>Pods-Tests-resources.sh</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>A159B9DE0304E2C3B1C5EBDB</key>
+		<dict>
+			<key>buildConfigurationList</key>
+			<string>847AE99B5636DF1A995A566F</string>
+			<key>buildPhases</key>
+			<array>
+				<string>B7D18A9AA5A85BD958E4DACA</string>
+				<string>BDC9E3F9516FB03D53C64858</string>
+				<string>6CE3F27A003FEEDE5EC9F585</string>
+			</array>
+			<key>buildRules</key>
+			<array/>
+			<key>dependencies</key>
+			<array>
+				<string>E6D6551E8468421FA2B89CBC</string>
+			</array>
+			<key>isa</key>
+			<string>PBXNativeTarget</string>
+			<key>name</key>
+			<string>Pods-Tests-SwiftLightNum</string>
+			<key>productName</key>
+			<string>Pods-Tests-SwiftLightNum</string>
+			<key>productReference</key>
+			<string>957521CCC64715C8E515F345</string>
+			<key>productType</key>
+			<string>com.apple.product-type.library.static</string>
+		</dict>
+		<key>A270C51A1485E594DCCDC2E2</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>D65307E7367E83D9D3DBD745</string>
+				<string>8C46D05CBC891774F2FDEB3A</string>
+			</array>
+			<key>isa</key>
+			<string>PBXSourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>A3B66466CF5BB21EE209C3DA</key>
+		<dict>
+			<key>fileRef</key>
+			<string>846965BD5A89DFC541EA2664</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>A3C1B86A66A27C5D53D3B59B</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>A639A0FBA59F472A39FBB5E1</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>ALWAYS_SEARCH_USER_PATHS</key>
+				<string>NO</string>
+				<key>COPY_PHASE_STRIP</key>
+				<string>YES</string>
+				<key>DSTROOT</key>
+				<string>/tmp/xcodeproj.dst</string>
+				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
+				<string>YES</string>
+				<key>GCC_PREFIX_HEADER</key>
+				<string>Target Support Files/Pods-Tests-SwiftLightNum/Pods-Tests-SwiftLightNum-prefix.pch</string>
+				<key>INSTALL_PATH</key>
+				<string>$(BUILT_PRODUCTS_DIR)</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>8.0</string>
+				<key>OTHER_CFLAGS</key>
+				<array>
+					<string>-DNS_BLOCK_ASSERTIONS=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>OTHER_CPLUSPLUSFLAGS</key>
+				<array>
+					<string>-DNS_BLOCK_ASSERTIONS=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>OTHER_LDFLAGS</key>
+				<string></string>
+				<key>OTHER_LIBTOOLFLAGS</key>
+				<string></string>
+				<key>PRODUCT_NAME</key>
+				<string>$(TARGET_NAME)</string>
+				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
+				<string>$(TARGET_NAME)</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+				<key>VALIDATE_PRODUCT</key>
+				<string>YES</string>
+			</dict>
+>>>>>>> Stashed changes
 			<key>isa</key>
 			<string>PBXFrameworksBuildPhase</string>
 			<key>runOnlyForDeploymentPostprocessing</key>
@@ -1109,6 +2066,7 @@
 			<key>targetProxy</key>
 			<string>D38767E9D5D86452DE14958D</string>
 		</dict>
+<<<<<<< Updated upstream
 		<key>8B104F83D477C4E062D8AE50</key>
 		<dict>
 			<key>buildConfigurationList</key>
@@ -1137,6 +2095,16 @@
 			<string>com.apple.product-type.library.static</string>
 		</dict>
 		<key>8B79BACA8B6570A97573DEF1</key>
+=======
+		<key>A5EAB94A4F4E7DEC33D2673D</key>
+		<dict>
+			<key>fileRef</key>
+			<string>8F9375EE79B88C5E9BB37921</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>A639A0FBA59F472A39FBB5E1</key>
+>>>>>>> Stashed changes
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1145,6 +2113,7 @@
 			<key>lastKnownFileType</key>
 			<string>text.xcconfig</string>
 			<key>name</key>
+<<<<<<< Updated upstream
 			<string>Pods-Tests-SwiftLightNum.xcconfig</string>
 			<key>path</key>
 			<string>../Pods-Tests-SwiftLightNum/Pods-Tests-SwiftLightNum.xcconfig</string>
@@ -1166,11 +2135,23 @@
 			<string>XCConfigurationList</string>
 		</dict>
 		<key>8D161DD06210672AB481C11E</key>
+=======
+			<string>Pods-Tests-SwiftLightNum-Private.xcconfig</string>
+			<key>path</key>
+			<string>../Pods-Tests-SwiftLightNum/Pods-Tests-SwiftLightNum-Private.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>A9306C6D958A9F08FCCA7DFF</key>
+>>>>>>> Stashed changes
 		<dict>
+			<key>baseConfigurationReference</key>
+			<string>E7D8F748B9F1C7A777B0F5AA</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ALWAYS_SEARCH_USER_PATHS</key>
 				<string>NO</string>
+<<<<<<< Updated upstream
 				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
 				<string>gnu++0x</string>
 				<key>CLANG_CXX_LIBRARY</key>
@@ -1221,12 +2202,51 @@
 				<string>NO</string>
 				<key>VALIDATE_PRODUCT</key>
 				<string>YES</string>
+=======
+				<key>COPY_PHASE_STRIP</key>
+				<string>YES</string>
+				<key>DSTROOT</key>
+				<string>/tmp/xcodeproj.dst</string>
+				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
+				<string>YES</string>
+				<key>GCC_PREFIX_HEADER</key>
+				<string>Target Support Files/Pods-SwiftLightNum-SwiftLightNum/Pods-SwiftLightNum-SwiftLightNum-prefix.pch</string>
+				<key>INSTALL_PATH</key>
+				<string>$(BUILT_PRODUCTS_DIR)</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>8.0</string>
+				<key>OTHER_CFLAGS</key>
+				<array>
+					<string>-DNS_BLOCK_ASSERTIONS=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>OTHER_CPLUSPLUSFLAGS</key>
+				<array>
+					<string>-DNS_BLOCK_ASSERTIONS=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>OTHER_LDFLAGS</key>
+				<string></string>
+				<key>OTHER_LIBTOOLFLAGS</key>
+				<string></string>
+				<key>PRODUCT_NAME</key>
+				<string>$(TARGET_NAME)</string>
+				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
+				<string>$(TARGET_NAME)</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+				<key>VALIDATE_PRODUCT</key>
+				<string>YES</string>
+>>>>>>> Stashed changes
 			</dict>
 			<key>isa</key>
 			<string>XCBuildConfiguration</string>
 			<key>name</key>
 			<string>Release</string>
 		</dict>
+<<<<<<< Updated upstream
 		<key>929866D80159705152C0E13D</key>
 		<dict>
 			<key>fileRef</key>
@@ -1284,8 +2304,35 @@
 			<key>isa</key>
 			<string>PBXResourcesBuildPhase</string>
 			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
+=======
+		<key>AACFDC2E912F10C6CD3C3AB2</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>Pods-SwiftLightNum-environment.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
+		<key>B1122FCD54E1C3E758788419</key>
+		<dict>
+			<key>explicitFileType</key>
+			<string>archive.ar</string>
+			<key>includeInIndex</key>
+>>>>>>> Stashed changes
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>libPods-Tests.a</string>
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
+		</dict>
+<<<<<<< Updated upstream
 		<key>A0C0CBD2D71B6862F5E5320E</key>
 		<dict>
 			<key>children</key>
@@ -1367,11 +2414,15 @@
 			<string>&lt;group&gt;</string>
 		</dict>
 		<key>BF02312C68CF555F19254549</key>
+=======
+		<key>B7D18A9AA5A85BD958E4DACA</key>
+>>>>>>> Stashed changes
 		<dict>
 			<key>buildActionMask</key>
 			<string>2147483647</string>
 			<key>files</key>
 			<array>
+<<<<<<< Updated upstream
 				<string>98B2C8CBBF2059CCB5ECE917</string>
 			</array>
 			<key>isa</key>
@@ -1389,9 +2440,26 @@
 				<string>461E02E8D2AF1F9C8B58FC03</string>
 				<string>C72FF20D4B9369141E6C9FC1</string>
 			</array>
+=======
+				<string>C54693363C8D591DBEC231B1</string>
+				<string>F05CA641DA737BD4D357F308</string>
+			</array>
 			<key>isa</key>
-			<string>PBXGroup</string>
+			<string>PBXSourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>B8A9C479BEA8148B678CE80A</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+>>>>>>> Stashed changes
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
 			<key>name</key>
+<<<<<<< Updated upstream
 			<string>Products</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
@@ -1557,11 +2625,34 @@
 			<string>Pods-Tests-SwiftLightNum</string>
 		</dict>
 		<key>D405DC82DC2CBA48A500DD56</key>
+=======
+			<string>Pods-Tests-SwiftLightNum-dummy.m</string>
+			<key>path</key>
+			<string>../Pods-Tests-SwiftLightNum/Pods-Tests-SwiftLightNum-dummy.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>BB0575CD4BC64C7156D31B61</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>Pods-Tests-environment.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>BDC9E3F9516FB03D53C64858</key>
+>>>>>>> Stashed changes
 		<dict>
 			<key>buildActionMask</key>
 			<string>2147483647</string>
 			<key>files</key>
 			<array>
+<<<<<<< Updated upstream
 				<string>96D8C061A76FB017AECA83A8</string>
 			</array>
 			<key>isa</key>
@@ -1587,18 +2678,79 @@
 		<dict>
 			<key>baseConfigurationReference</key>
 			<string>423ED5550666F69D92B7F89E</string>
+=======
+				<string>0A55D2924A2825E834A98475</string>
+			</array>
+			<key>isa</key>
+			<string>PBXFrameworksBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>BEAF107F049D8833BA4F2D80</key>
+		<dict>
+			<key>fileRef</key>
+			<string>C1F14ADC632EF978243EB790</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>C1F14ADC632EF978243EB790</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>Pods-Tests-dummy.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>C24FE400A976C7CEE2B074CA</key>
+		<dict>
+>>>>>>> Stashed changes
 			<key>buildSettings</key>
 			<dict>
 				<key>ALWAYS_SEARCH_USER_PATHS</key>
 				<string>NO</string>
+<<<<<<< Updated upstream
 				<key>COPY_PHASE_STRIP</key>
 				<string>NO</string>
 				<key>DSTROOT</key>
 				<string>/tmp/xcodeproj.dst</string>
+=======
+				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
+				<string>gnu++0x</string>
+				<key>CLANG_CXX_LIBRARY</key>
+				<string>libc++</string>
+				<key>CLANG_ENABLE_MODULES</key>
+				<string>YES</string>
+				<key>CLANG_ENABLE_OBJC_ARC</key>
+				<string>YES</string>
+				<key>CLANG_WARN_BOOL_CONVERSION</key>
+				<string>YES</string>
+				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
+				<string>YES</string>
+				<key>CLANG_WARN_DIRECT_OBJC_ISA_USAGE</key>
+				<string>YES</string>
+				<key>CLANG_WARN_EMPTY_BODY</key>
+				<string>YES</string>
+				<key>CLANG_WARN_ENUM_CONVERSION</key>
+				<string>YES</string>
+				<key>CLANG_WARN_INT_CONVERSION</key>
+				<string>YES</string>
+				<key>CLANG_WARN_OBJC_ROOT_CLASS</key>
+				<string>YES</string>
+				<key>COPY_PHASE_STRIP</key>
+				<string>YES</string>
+				<key>GCC_C_LANGUAGE_STANDARD</key>
+				<string>gnu99</string>
+>>>>>>> Stashed changes
 				<key>GCC_DYNAMIC_NO_PIC</key>
 				<string>NO</string>
 				<key>GCC_OPTIMIZATION_LEVEL</key>
 				<string>0</string>
+<<<<<<< Updated upstream
 				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
 				<string>YES</string>
 				<key>GCC_PREFIX_HEADER</key>
@@ -1626,11 +2778,39 @@
 				<string>iphoneos</string>
 				<key>SKIP_INSTALL</key>
 				<string>YES</string>
+=======
+				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
+				<array>
+					<string>DEBUG=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
+				<string>NO</string>
+				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
+				<string>YES</string>
+				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
+				<string>YES</string>
+				<key>GCC_WARN_UNDECLARED_SELECTOR</key>
+				<string>YES</string>
+				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
+				<string>YES</string>
+				<key>GCC_WARN_UNUSED_FUNCTION</key>
+				<string>YES</string>
+				<key>GCC_WARN_UNUSED_VARIABLE</key>
+				<string>YES</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>8.0</string>
+				<key>ONLY_ACTIVE_ARCH</key>
+				<string>YES</string>
+				<key>STRIP_INSTALLED_PRODUCT</key>
+				<string>NO</string>
+>>>>>>> Stashed changes
 			</dict>
 			<key>isa</key>
 			<string>XCBuildConfiguration</string>
 			<key>name</key>
 			<string>Debug</string>
+<<<<<<< Updated upstream
 		</dict>
 		<key>DD7618CF6B77F2A1F6DA8405</key>
 		<dict>
@@ -1665,10 +2845,30 @@
 				<string>46CB9EDE9B7A6BD72690E3AC</string>
 				<string>3012F467447D79FA9F3CEBA9</string>
 				<string>A0C0CBD2D71B6862F5E5320E</string>
+=======
+		</dict>
+		<key>C54693363C8D591DBEC231B1</key>
+		<dict>
+			<key>fileRef</key>
+			<string>E940FBA2D47260D8D63A3364</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>D49FECD9D3430EFF6A81CAE1</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>4B256409A5FAA544AF672263</string>
+				<string>DF93C34E4A500F8A2412F0F8</string>
+				<string>0DE68AD99720493084214B1D</string>
+				<string>B1122FCD54E1C3E758788419</string>
+				<string>957521CCC64715C8E515F345</string>
+>>>>>>> Stashed changes
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
 			<key>name</key>
+<<<<<<< Updated upstream
 			<string>SwiftLightNum</string>
 			<key>path</key>
 			<string>../..</string>
@@ -1679,10 +2879,151 @@
 		<dict>
 			<key>fileRef</key>
 			<string>AB4240ED722A29A3B2329FAA</string>
+=======
+			<string>Products</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>D65307E7367E83D9D3DBD745</key>
+		<dict>
+			<key>fileRef</key>
+			<string>E940FBA2D47260D8D63A3364</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
+		<key>D67D2CCC1692710C3DE93607</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>5CA49724D8A1DE2CBE2BEE12</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>ALWAYS_SEARCH_USER_PATHS</key>
+				<string>NO</string>
+				<key>COPY_PHASE_STRIP</key>
+				<string>YES</string>
+				<key>DSTROOT</key>
+				<string>/tmp/xcodeproj.dst</string>
+				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
+				<string>YES</string>
+				<key>INSTALL_PATH</key>
+				<string>$(BUILT_PRODUCTS_DIR)</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>8.0</string>
+				<key>OTHER_CFLAGS</key>
+				<array>
+					<string>-DNS_BLOCK_ASSERTIONS=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>OTHER_CPLUSPLUSFLAGS</key>
+				<array>
+					<string>-DNS_BLOCK_ASSERTIONS=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>OTHER_LDFLAGS</key>
+				<string></string>
+				<key>OTHER_LIBTOOLFLAGS</key>
+				<string></string>
+				<key>PRODUCT_NAME</key>
+				<string>$(TARGET_NAME)</string>
+				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
+				<string>$(TARGET_NAME)</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+				<key>VALIDATE_PRODUCT</key>
+				<string>YES</string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Release</string>
+		</dict>
+		<key>D7B09DCDDE91D11B6D44D4AF</key>
+		<dict>
+			<key>buildConfigurations</key>
+			<array>
+				<string>60ED0F5321C923CBAE012DBF</string>
+				<string>A9306C6D958A9F08FCCA7DFF</string>
+			</array>
+			<key>defaultConfigurationIsVisible</key>
+			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
+			<key>isa</key>
+			<string>XCConfigurationList</string>
+		</dict>
+		<key>D85D5A86CF8C35B2E88E0B48</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>A3B66466CF5BB21EE209C3DA</string>
+			</array>
+			<key>isa</key>
+			<string>PBXFrameworksBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>D92A0DCD6DBD550891CB8EC0</key>
+		<dict>
+			<key>buildConfigurationList</key>
+			<string>E45354B16BDDD44C4D5235CB</string>
+			<key>buildPhases</key>
+			<array>
+				<string>812BF330C661AF6B3565B9E9</string>
+				<string>45E46A8CB08B302A4D901707</string>
+				<string>7DC6344DC0471D9DABC67430</string>
+			</array>
+			<key>buildRules</key>
+			<array/>
+			<key>dependencies</key>
+			<array/>
+>>>>>>> Stashed changes
+			<key>isa</key>
+			<string>PBXNativeTarget</string>
+			<key>name</key>
+			<string>SwiftLightNum</string>
+			<key>productName</key>
+			<string>SwiftLightNum</string>
+			<key>productReference</key>
+			<string>4B256409A5FAA544AF672263</string>
+			<key>productType</key>
+			<string>com.apple.product-type.bundle</string>
+		</dict>
+<<<<<<< Updated upstream
 		<key>F7B356CA76FCCE90FBA2958D</key>
+=======
+		<key>D965B3730A71F39123A66E15</key>
+		<dict>
+			<key>buildConfigurations</key>
+			<array>
+				<string>095BB2F77240BC6FA3F98C47</string>
+				<string>95F4D61C236B6692BFC57773</string>
+			</array>
+			<key>defaultConfigurationIsVisible</key>
+			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
+			<key>isa</key>
+			<string>XCConfigurationList</string>
+		</dict>
+		<key>DF93C34E4A500F8A2412F0F8</key>
+		<dict>
+			<key>explicitFileType</key>
+			<string>archive.ar</string>
+			<key>includeInIndex</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>libPods-SwiftLightNum.a</string>
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
+		</dict>
+		<key>E213F803C642EF202515BF84</key>
+>>>>>>> Stashed changes
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1695,7 +3036,36 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+<<<<<<< Updated upstream
 		<key>F9C77FA40556E37C32A90A65</key>
+=======
+		<key>E45354B16BDDD44C4D5235CB</key>
+		<dict>
+			<key>buildConfigurations</key>
+			<array>
+				<string>3D632575FD3C5F5608888042</string>
+				<string>18F3BC0770FC35B8B703CD25</string>
+			</array>
+			<key>defaultConfigurationIsVisible</key>
+			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
+			<key>isa</key>
+			<string>XCConfigurationList</string>
+		</dict>
+		<key>E6D6551E8468421FA2B89CBC</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXTargetDependency</string>
+			<key>name</key>
+			<string>SwiftLightNum</string>
+			<key>target</key>
+			<string>D92A0DCD6DBD550891CB8EC0</string>
+			<key>targetProxy</key>
+			<string>289E9EABA6E1E2AD054A202A</string>
+		</dict>
+		<key>E7D8F748B9F1C7A777B0F5AA</key>
+>>>>>>> Stashed changes
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1706,17 +3076,26 @@
 			<key>name</key>
 			<string>Pods-Tests-SwiftLightNum-prefix.pch</string>
 			<key>path</key>
+<<<<<<< Updated upstream
 			<string>../Pods-Tests-SwiftLightNum/Pods-Tests-SwiftLightNum-prefix.pch</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
 		<key>FCF29BC13CA5E040EDA615A6</key>
+=======
+			<string>Pods-SwiftLightNum-SwiftLightNum-Private.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E940FBA2D47260D8D63A3364</key>
+>>>>>>> Stashed changes
 		<dict>
 			<key>children</key>
 			<array>
 				<string>AB4240ED722A29A3B2329FAA</string>
 			</array>
 			<key>isa</key>
+<<<<<<< Updated upstream
 			<string>PBXGroup</string>
 			<key>name</key>
 			<string>iOS</string>
@@ -1745,11 +3124,115 @@
 			<string>0</string>
 			<key>defaultConfigurationName</key>
 			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
+=======
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>LNNumpadView.m</string>
+			<key>path</key>
+			<string>Pod/Classes/LNNumpadView.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
+		<key>EE3EE529E263B0D4CE4CD493</key>
+		<dict>
+			<key>buildConfigurationList</key>
+			<string>D7B09DCDDE91D11B6D44D4AF</string>
+			<key>buildPhases</key>
+			<array>
+				<string>A270C51A1485E594DCCDC2E2</string>
+				<string>FDAC00EBAF97B9C4F4B8C3D7</string>
+				<string>155C62FE47F3734992DC5D3E</string>
+			</array>
+			<key>buildRules</key>
+			<array/>
+			<key>dependencies</key>
+			<array>
+				<string>8E3562180612114A3A1C0A66</string>
+			</array>
+			<key>isa</key>
+			<string>PBXNativeTarget</string>
+			<key>name</key>
+			<string>Pods-SwiftLightNum-SwiftLightNum</string>
+			<key>productName</key>
+			<string>Pods-SwiftLightNum-SwiftLightNum</string>
+			<key>productReference</key>
+			<string>0DE68AD99720493084214B1D</string>
+			<key>productType</key>
+			<string>com.apple.product-type.library.static</string>
+		</dict>
+		<key>EED204CAEBF4C9D9BD991A95</key>
+		<dict>
+			<key>fileRef</key>
+			<string>5C179A1C241D59E9B6E8027E</string>
+>>>>>>> Stashed changes
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>F05CA641DA737BD4D357F308</key>
+		<dict>
+			<key>fileRef</key>
+			<string>B8A9C479BEA8148B678CE80A</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+<<<<<<< Updated upstream
 	</dict>
 	<key>rootObject</key>
 	<string>C96293F2C38F23C3F9E9E323</string>
+=======
+		<key>F14CF287CA60062BD1951D06</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>Pods-SwiftLightNum.release.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F54F3538A57A477C4BA3D366</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>8CA7B699920C06B2F7367EF1</string>
+				<string>E7D8F748B9F1C7A777B0F5AA</string>
+				<string>0F1CBC5324336104FA8FF5B9</string>
+				<string>614245AFEB9CDE69B9F2639B</string>
+				<string>8CCBFACFD6FB8FBEC7D1DE40</string>
+				<string>A639A0FBA59F472A39FBB5E1</string>
+				<string>B8A9C479BEA8148B678CE80A</string>
+				<string>E213F803C642EF202515BF84</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Support Files</string>
+			<key>path</key>
+			<string>Example/Pods/Target Support Files/Pods-SwiftLightNum-SwiftLightNum</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>FDAC00EBAF97B9C4F4B8C3D7</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>2ED8A9D16E0F6F4D53551CD2</string>
+			</array>
+			<key>isa</key>
+			<string>PBXFrameworksBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+	</dict>
+	<key>rootObject</key>
+	<string>222CF672C8DEA02DBFC7F113</string>
+>>>>>>> Stashed changes
 </dict>
 </plist>
